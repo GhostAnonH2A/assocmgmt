@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://assoc-mgmt.com/-/dunia188/sitemap.xml
